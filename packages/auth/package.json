@@ -18,7 +18,7 @@
 		"@better-auth/api-key": "^1.6.29",
 		"@better-auth/drizzle-adapter": "^1.6.29",
 		"@better-auth/infra": "^0.3.7",
-		"@better-auth/oauth-provider": "^1.6.29",
+		"@better-auth/oauth-provider": "^1.7.7",
 		"@better-auth/passkey": "^1.6.29",
 		"@reactive-resume/db": "workspace:*",
 		"@reactive-resume/email": "workspace:*",
